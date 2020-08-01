@@ -1,6 +1,0 @@
-2020-07-31 12:14:10.760 [main] INFO  com.wong.o2oboot.O2obootApplication - Starting O2obootApplication on MacBook-Pro.local with PID 7951 (/Users/wong/Library/spring-workspace/o2oboot/target/classes started by wong in /Users/wong/Library/spring-workspace/o2oboot)
-2020-07-31 12:14:10.773 [main] INFO  com.wong.o2oboot.O2obootApplication - No active profile set, falling back to default profiles: default
-2020-07-31 12:14:23.718 [main] INFO  com.wong.o2oboot.O2obootApplication - Started O2obootApplication in 33.427 seconds (JVM running for 34.166)
-2020-07-31 19:20:47.695 [main] INFO  com.wong.o2oboot.O2obootApplication - Starting O2obootApplication on MacBook-Pro.local with PID 9099 (/Users/wong/Library/spring-workspace/o2oboot/target/classes started by wong in /Users/wong/Library/spring-workspace/o2oboot)
-2020-07-31 19:20:47.706 [main] INFO  com.wong.o2oboot.O2obootApplication - No active profile set, falling back to default profiles: default
-2020-07-31 19:21:00.704 [main] INFO  com.wong.o2oboot.O2obootApplication - Started O2obootApplication in 33.449 seconds (JVM running for 34.19)
