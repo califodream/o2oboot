@@ -58,7 +58,7 @@ $(function () {
 					$.toast('提交成功！');
 					getList();
 				} else {
-					$.toast('提交失败！');
+					alert('提交失败！');
 				}
 			}
 		});
@@ -86,7 +86,7 @@ $(function () {
 							$.toast('删除成功！');
 							getList();
 						} else {
-							$.toast('删除失败！');
+							alert('删除失败！');
 						}
 					}
 				});

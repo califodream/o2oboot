@@ -94,7 +94,7 @@ $(function() {
 					$.toast('提交成功');
 					window.location.href = "/o2o/shopadmin/shoplist";
 				} else {
-					$.toast('提交失败' + data.errMsg);
+					alert('提交失败' + data.errMsg);
 				}
 			}
 		});

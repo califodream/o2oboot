@@ -98,7 +98,7 @@ $(function () {
 						$.toast('操作成功！');
 						getList();
 					} else {
-						$.toast('操作失败！');
+						alert('操作失败！');
 					}
 				}
 			});
