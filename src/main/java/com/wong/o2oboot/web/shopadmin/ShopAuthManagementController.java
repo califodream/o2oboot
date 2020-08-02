@@ -41,7 +41,7 @@ import com.wong.o2oboot.util.HttpServletRequestUtil;
 import com.wong.o2oboot.util.wechat.WechatUtil;
 
 @Controller
-@RequestMapping(value = "/shopadmin")
+@RequestMapping("shopadmin")
 @Configuration
 public class ShopAuthManagementController {
 
@@ -213,7 +213,7 @@ public class ShopAuthManagementController {
 			List<ShopAuthMap> authList = same1.getShopAuthMapList();
 			for(ShopAuthMap sam : authList) {
 				if(sam.getEmployee().getUserId() == user.getUserId()) {
-					return "sho/operationfail";
+					return "shop/operationfail";
 				}
 			}			
 			try {
